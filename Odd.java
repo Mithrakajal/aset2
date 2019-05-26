@@ -9,7 +9,7 @@ public class Odd
 		System.out.println("enter q:");
 		q=s.nextInt();
 		System.out.println("the odd numbers are:");
-		for(int i=1;i<=q;i++)
+		for(int i=n;i<=q;i++)
 		{
 		    if(i%2!=0)
 		    {
